@@ -1,0 +1,6 @@
+{
+  "name": "KB International Barber Shop",
+  "description": "Premium luxury Nigerian barber shop and grooming lounge at Smart Junction, Ogijo, Ogun State. Featuring online appointment booking, WhatsApp instant booking, hairstyle lookbook, and Google Maps reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
